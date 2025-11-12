@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tugas_3_avatar</string>
+    <string name="title_activity_face_avatar_screen">FaceAvatarScreen</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_user_view_model">UserViewModel</string>
+</resources>
